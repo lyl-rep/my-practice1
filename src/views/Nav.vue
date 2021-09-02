@@ -12,6 +12,7 @@
 
 <script>
 export default {
+//改了一下这里
   name:'history',
   data() {
     return {
