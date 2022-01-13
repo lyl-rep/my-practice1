@@ -16,7 +16,7 @@
 import Nav from "@/views/Nav.vue";
 export default {
   components: {
-    Nav,
+    Nav,  //2022-01-13改这里
   },
 };
 </script>
